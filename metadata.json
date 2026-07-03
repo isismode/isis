@@ -1,0 +1,6 @@
+{
+  "name": "ISIS - Supervisão e Sell Out",
+  "description": "Landing page premium e corporativa para a plataforma ISIS — Inteligência de Supervisão e Indicadores de Sell Out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
